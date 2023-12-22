@@ -19,7 +19,7 @@ const seedPhrase = "gunter glieben glauten globen";
 const derivationPathAddress = "m/44'/145'/0'/0/0"; // last number is the address index from electron cash, if you are using it.
 
 // If using 2 BCMRs, both files must be identical as this script only hashes the IPFS one.
-// the CID if your BCMR file uploaded to IPFS, starts with 'baf'. Recommend nft.storage.
+// the CID of your BCMR file uploaded to IPFS, starts with 'baf'. Recommend nft.storage.
 const bcmrCID = "bafxxx";
 const dnsBCMR = "example.com"; // FQDN, can be left blank
 
