@@ -1,0 +1,16 @@
+{
+  "name": "identity",
+  "version": "0.0.1",
+  "description": "",
+  "main": "createIdentity.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mainnet-js": "^2.3.0"
+  }
+}
